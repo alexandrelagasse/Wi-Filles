@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    color: darkblue;
+}
+
+button {
+    display: inline-block;
+    background-color: darkblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    color: blue;
+    font-size: 1.2em;
+    text-decoration: none;
+}
